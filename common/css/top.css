@@ -1,0 +1,22 @@
+.top-wrapper{
+    display: flex;
+    width: 100vw;
+    height: 100vh;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.box-area{
+    border: 1px solid #000;
+    padding: 2em;
+}
+p{
+    margin: 32px auto;
+    text-align: center;
+}
+.link-area{
+    margin: 32px auto;
+}
+.link-area li{
+    text-align: center;
+}
