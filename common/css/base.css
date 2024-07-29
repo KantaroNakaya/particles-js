@@ -10,11 +10,6 @@ img{
         display: inline;
     }
 }
-.qr{
-    width: 50%;
-    max-width: 100px;
-    margin: 0 auto 32px;
-}
 .fa-space{
 	padding: 0 0.5em;
 }
